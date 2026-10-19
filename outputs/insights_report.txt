@@ -1,0 +1,11 @@
+EXPENSE TRACKER - KEY INSIGHTS
+================================
+1. Total income Rs.676,000 vs total expenses Rs.439,973 -> savings Rs.236,027 (34.9% savings rate).
+2. Biggest spending category: Rent (Rs.144,000, 32.7% of expenses).
+3. Largest controllable (non-fixed) category: Shopping - the best place to cut costs.
+4. Highest-spend month: 2024-11 (Rs.44,762); lowest: 2024-02 (Rs.30,846).
+5. Lowest savings rate: 2024-11 (18.6%).
+6. Budget exceeded 28 times across 11 months; most frequent offender: Shopping (8 months).
+7. Worst overspend: Shopping in 2024-05 - 192.6% above budget (Rs.9,632).
+8. Most expensive weekday on average: Tuesday (Rs.966/transaction).
+9. Most used payment method (by amount): Upi.
